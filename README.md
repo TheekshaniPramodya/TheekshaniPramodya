@@ -1,5 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheekshaniPramodya/TheekshaniPramodya/main/wave.gif" width="30px">, I'm Theekshani Pramodya</h1>
-<h3 align="center">A Cybersecurity Enthusiast & Software Developer from Sri Lanka</h3>
+<h1 align="center" style="background-image: url('https://i.ibb.co/8n2G3wQz/image.png'); padding: 20px; color: white;">
+  Hi <img src="https://raw.githubusercontent.com/TheekshaniPramodya/TheekshaniPramodya/main/wave.gif" width="30px">, I'm Theekshani Pramodya
+</h1>
+<h3 align="center" style="color: white;">A Cybersecurity Enthusiast & Software Developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheekshaniPramodya&style=flat-square&color=blue" alt="Profile Views"/>
@@ -22,19 +24,10 @@
 
 ---
 
-### 🌎 Connect with Me:
-<p align="left">
-<a href="https://dev.to/theekshanipramodya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/></a>
-<a href="https://twitter.com/theekshaniph" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/theekshanipramodya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/30140456" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
-<a href="https://codesandbox.com/theekshaniph" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40"/></a>
-<a href="https://fb.com/theekshanipramodya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/theekshanipramodya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a href="https://dribbble.com/theekshaniph" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40"/></a>
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshaniPramodya&layout=compact&theme=dark&hide_border=true"/>
 </p>
-
----
 
 ### 🛠 Languages & Tools:
 <p align="center">
@@ -63,3 +56,10 @@
 <p align="center">
   <a href="https://twitter.com/theekshaniph" target="blank"><img src="https://img.shields.io/twitter/follow/theekshaniph?logo=twitter&style=for-the-badge" alt="theekshaniph"/></a>
 </p>
+
+---
+
+### 🎨 Animated Elements & Background:
+<div align="center">
+  <img src="https://i.ibb.co/sd3JdT9g/images.jpg" width="300px"/>
+</div>
