@@ -7,9 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/8n2G3wQz/image.png">
 
-<br><br>
-<br><br>
-
+<br>
 
 - 🔭 I’m currently working on **Cybersecurity & Ethical Hacking Projects**
 
