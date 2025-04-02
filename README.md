@@ -70,8 +70,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theekshanipramodya&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
-## 🎨 Animated Dots Background
-~~~html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
