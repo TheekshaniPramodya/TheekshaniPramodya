@@ -10,9 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/theekshaniph" target="blank"><img src="https://img.shields.io/twitter/follow/theekshaniph?logo=twitter&style=for-the-badge" alt="theekshaniph" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://i.ibb.co/HT2KHXxP/giphy-gif-cid-790b761148gr8vkyxzgd3npln9fl2f1dpjvm3xwpyxfzw4ks-ep-v1-gifs-search-rid-giphy.gif">
 
-<br><br>">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/8n2G3wQz/image.png">
 
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/HT2KHXxP/giphy-gif-cid-790b761148gr8vkyxzgd3npln9fl2f1dpjvm3xwpyxfzw4ks-ep-v1-gifs-search-rid-giphy.gif">
