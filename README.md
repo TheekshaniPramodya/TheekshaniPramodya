@@ -4,10 +4,11 @@
 <h3 align="center">A Cybersecurity Enthusiast & Software Developer from Sri Lanka</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheekshaniPramodya&style=flat-square&color=blue)
+<br><br>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/8n2G3wQz/image.png">
 
-<br>
+
 
 - 🔭 I’m currently working on **Cybersecurity & Ethical Hacking Projects**
 
