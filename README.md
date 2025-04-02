@@ -19,15 +19,15 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Cybersecurity & Ethical Hacking Projects**
-- 🌱 I’m currently learning **System & Network Administration (Linux, Windows Server, Cloud Computing)**
-- 👯 I’m looking to collaborate on **Open-source security tools**
+- 🔯 I’m currently working on **Cybersecurity & Ethical Hacking Projects**
+- 🌟 I’m currently learning **System & Network Administration (Linux, Windows Server, Cloud Computing)**
+- 👥 I’m looking to collaborate on **Open-source security tools**
 - 🤝 I’m looking for help with **security-related open-source projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://theekshani.vercel.app/) and [GitHub](https://github.com/TheekshaniPramodya)
 - 💬 Ask me about **Cybersecurity, Networking, Linux, Python, System Administration**
-- 📫 How to reach me **theekshaniph@gmail.com**
+- 📧 How to reach me **theekshaniph@gmail.com**
 
-## 📡 Connect with Me
+## 💽 Connect with Me
 
 <p align="left">
   <a href="https://dev.to/theekshanipramodya" target="_blank">
@@ -53,12 +53,6 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
@@ -75,3 +69,48 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theekshanipramodya&theme=radical" alt="GitHub Profile Summary" />
 </p>
+
+## 🎨 Animated Dots Background
+~~~html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Dots Profile</title>
+    <style>
+        body {
+            background-color: #0a192f;
+            color: white;
+            text-align: center;
+            font-family: 'Fira Code', monospace;
+            overflow: hidden;
+            position: relative;
+        }
+        .dot {
+            width: 10px;
+            height: 10px;
+            background-color: #ff6b81;
+            border-radius: 50%;
+            position: absolute;
+            animation: moveDots 5s infinite alternate ease-in-out;
+        }
+        @keyframes moveDots {
+            0% {
+                transform: translate(0, 0);
+            }
+            100% {
+                transform: translate(calc(100vw - 20px), calc(100vh - 20px));
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Hi 👋, I'm Theekshani Pramodya</h1>
+    <h3>A Cybersecurity Enthusiast & Software Developer from Sri Lanka</h3>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+</body>
+</html>
