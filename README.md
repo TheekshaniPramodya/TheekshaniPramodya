@@ -45,5 +45,8 @@
 <p align="left"> <a href="https://twitter.com/theekshaniph" target="blank"><img src="https://img.shields.io/twitter/follow/theekshaniph?logo=twitter&style=for-the-badge" alt="theekshaniph" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theekshanipramodya&" alt="theekshanipramodya" /></p>
+<p style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theekshanipramodya" alt="theekshanipramodya" />
+</p>
+
 
