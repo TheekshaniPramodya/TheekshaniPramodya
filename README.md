@@ -50,8 +50,8 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theekshanipramodya&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theekshanipramodya&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=theekshanipramodya&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
