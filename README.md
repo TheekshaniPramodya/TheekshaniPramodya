@@ -49,13 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theekshanipramodya&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theekshanipramodya&show_icons=true&theme=tokyonight" height="180px"/>
- 
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?usern=theekshanipramodya&theme=tokyonight" height="180px"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theekshanipramodya&theme=onedark&margin-w=15"/>
@@ -67,7 +61,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theekshanipramodya&theme=tokyo-night"/>
 </p>
+<p align="center">
+  💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
+</p>
 
 
 
-💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
+~~~<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theekshanipramodya&show_icons=true&theme=tokyonight" height="180px"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?usern=theekshanipramodya&theme=tokyonight" height="180px"/>
+</p>
