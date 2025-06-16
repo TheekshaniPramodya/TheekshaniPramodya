@@ -50,7 +50,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theekshanipramodya&theme=onedark&margin-w=15"/>
 </p>
@@ -64,7 +63,6 @@
 <p align="center">
   💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
 </p>
-
 <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" >
 
 
