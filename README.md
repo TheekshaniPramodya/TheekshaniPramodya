@@ -65,6 +65,9 @@
   💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
 </p>
 
+<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" >
+
+
 
 
 
